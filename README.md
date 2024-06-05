@@ -1,7 +1,5 @@
 ## Hello, Devs!! 👋
 
-<div class="tenor-gif-embed" data-postid="15828752" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/test-typing-codes-gif-15828752"></a>from <a href="https://tenor.com/search/test-gifs">Test GIFs</a></div>
-
 - 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Anhanguera Educacional
 - 🌱 Estudando desenvolvimento Web Front-end 
 - 📫 Como entrar em contato comigo: victorvasconcelosdev@gmail.com
