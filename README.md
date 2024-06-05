@@ -4,6 +4,6 @@
 - 🌱 Estudando desenvolvimento Web Front-end 
 - 📫 Como entrar em contato comigo: victorvasconcelosdev@gmail.com
 
-- 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  ## Ferramentas e Tecnologias
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
           
