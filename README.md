@@ -1,6 +1,6 @@
 ## Hello, Devs!! 👋
 
-<div class="tenor-gif-embed" data-postid="15828752" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/test-typing-codes-gif-15828752">Test Typing GIF</a>from <a href="https://tenor.com/search/test-gifs">Test GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+https://tenor.com/pt-BR/view/test-typing-codes-gif-15828752
 
 - 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Anhanguera Educacional
 - 🌱 Estudando desenvolvimento Web Front-end 
