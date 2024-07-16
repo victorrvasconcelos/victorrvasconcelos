@@ -1,7 +1,7 @@
 ## Hello, sou @victorrdev!! 👋
 
 - 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Anhanguera Educacional
-- 🌱 Estudando desenvolvimento Web Front-end e entrando no Mundo do Back-end
+- 🌱 Estudando Back-end Java
 - 📫 Como entrar em contato comigo: victorvasconcelosdev@gmail.com
 
   ## Ferramentas e Tecnologias
