@@ -28,7 +28,7 @@
 
 <div>
 <a href="https://www.instagram.com/viictordev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.tiktok.com/@cryptontzt" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Tiktok-9146FF?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+<a href="https://www.tiktok.com/@viictordev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Tiktok-9146FF?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
 <a href = "victorvasconcelosdev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/victor-vasconcelos-b08593308/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
