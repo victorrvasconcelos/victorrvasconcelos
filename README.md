@@ -34,6 +34,7 @@
 </div>
 
 
+![computer-illustration](https://github.com/user-attachments/assets/7684061d-bace-40f8-9f5e-9d02ec6525e9)
 
 
 
