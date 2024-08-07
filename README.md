@@ -1,4 +1,4 @@
-## Hello, sou @viictordev!! 👋
+## Hi, I'm Victor!💻
 
 - 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Anhanguera Educacional
 - 🌱 Estudando Back-end Java
