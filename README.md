@@ -1,8 +1,9 @@
 ## Hi, I'm Victor!💻
 
 - 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Anhanguera Educacional
-- 🌱 Estudando Back-end Java
+- 🌱 Estou estudando para me tornar um Especialista Back-end Java.
 - 📫 Como entrar em contato comigo: victorvasconcelosdev@gmail.com
+- 🎯 Sempre disposto a ajudar outros desenvolvedores.
 
   ## Ferramentas e Tecnologias
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" height="50" />
