@@ -7,6 +7,9 @@
 
 ## About Me :wave:
 
+<br>
+<br>
+
 🔭 Currently studying Analysis and Systems Development at Anhanguera Educacional.
 
 🌱 Studying to become a Back-end Java Specialist.
@@ -17,7 +20,8 @@
 
 
 
-
+<br>
+<br>
  ## My Skills
 
  **Applications**
