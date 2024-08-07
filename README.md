@@ -3,8 +3,11 @@
 ## About Me :wave:
 
 🔭 Currently studying Analysis and Systems Development at Anhanguera Educacional.
+
 🌱 Studying to become a Back-end Java Specialist.
+
 📫 How to contact me: victorvasconcelosdev@gmail.com
+
 🎯 Always willing to help other developers.
 
  ## My Skills
