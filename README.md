@@ -1,59 +1,38 @@
-## Hi, I'm Victor!💻
-## About Me 👋
+<h1 align="center">Hi, I'm Victor!💻</h1>
 
-- 🔭 Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Anhanguera Educacional
-- 🌱 Estou estudando para me tornar um Especialista Back-end Java.
-- 📫 Como entrar em contato comigo: victorvasconcelosdev@gmail.com
-- 🎯 Sempre disposto a ajudar outros desenvolvedores.
+## About Me :wave:
 
-  ## My Skills
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" height="50" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"  width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="50" height="50" />
- 
+🔭 Currently studying Analysis and Systems Development at Anhanguera Educacional.
+🌱 Studying to become a Back-end Java Specialist.
+📫 How to contact me: victorvasconcelosdev@gmail.com
+🎯 Always willing to help other developers.
 
-  <div>
-<a href="https://github.com/victorrvasconcelos">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrvasconcelos&layout=compact&langs_count=7&theme=dracula"/>                        
-</div>
-  
-## Estou aprendendo
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-  width="50" height="50" />
-   
+ ## My Skills
 
-   ## Contatos
+ **Applications**
 
-<div>
-<a href="https://www.instagram.com/viictordev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.tiktok.com/@viictordev" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Tiktok-9146FF?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
-<a href = "victorvasconcelosdev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/victor-vasconcelos-b08593308/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
+<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-![computer-illustration](https://github.com/user-attachments/assets/7684061d-bace-40f8-9f5e-9d02ec6525e9)
+**Developer Tools**
 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
+**Contact Me**
 
+[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/victorrvasconcelos)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-vasconcelos-b08593308/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/viictordev/)
 
+**GitHub Stats**
 
-          
-  
-          
- 
-          
-          
- 
-          
-  
-          
-  
-          
-  
-          
-          
+<a href="https://github.com/victorrvasconcelos" title="Perfil do Victor">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrvasconcelos&layout=compact&langs_count=7&theme=dracula" />
+</a>
