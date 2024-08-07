@@ -33,8 +33,6 @@
 **Contact Me**
 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/victorrvasconcelos)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-vasconcelos-b08593308/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/viictordev/)
 
@@ -44,3 +42,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrvasconcelos&layout=compact&langs_count=7&theme=dracula" />
  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=victorrvasconcelos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
