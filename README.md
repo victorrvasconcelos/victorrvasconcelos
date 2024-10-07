@@ -10,8 +10,6 @@
 
 🎯 Always willing to help other developers.
 
-<br>
-
  ## My Skills
 
  **Applications**
